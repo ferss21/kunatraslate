@@ -1,0 +1,2 @@
+# kunatraslate
+traductor con chatgpt
